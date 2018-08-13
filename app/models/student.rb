@@ -1,7 +1,8 @@
 
 class Student < ActiveRecord::Base
   
-  def to_s 
+  def to_s
+    
   end
   
 end
